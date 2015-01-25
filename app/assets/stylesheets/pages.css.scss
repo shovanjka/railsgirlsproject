@@ -1,0 +1,38 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+h1 {
+  color: grey;
+}
+
+h2 {
+  color: purple;
+}
+
+body {
+  font-style: italic;
+  background-color: pink;
+}
+
+table {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: left;
+  border: 1px solid black;
+}
+
+th {
+  text-align: center;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+tr {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+td {
+  border: 1px solid black;
+  padding: 5px;
+}
